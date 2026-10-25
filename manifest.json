@@ -1,0 +1,15 @@
+{
+  "name": "Ibrewu",
+  "short_name": "Ibrewu",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F3E5D8",
+  "theme_color": "#6F4E37",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/924/924514.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
