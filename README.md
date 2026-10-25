@@ -2,7 +2,7 @@
   
   # ☕ IBrewU 
   
-  **Tu asistente personal para el café de especialidad**
+  **Tu asistente para el café de especialidad**
 
   ![Estado](https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge)
   ![Plataforma](https://img.shields.io/badge/Plataforma-Web%20%7C%20PWA-blue?style=for-the-badge)
@@ -36,6 +36,7 @@ IBrewU es súper intuitiva, **funciona sin internet (offline)** y puedes instala
 IBrewU es una **PWA** (Progressive Web App). No necesitas descargarla de ninguna tienda de aplicaciones, no ocupa espacio y es gratis.
 
 1. 🌐 **Entra a la web** del proyecto desde el navegador de tu móvil (Chrome, Safari, etc.).
+    https://gonzalo-garavaglia.github.io/IBrewU/
 2. ⚙️ **Abre el menú** del navegador (los tres puntitos arriba a la derecha).
 3. ⬇️ Selecciona **"Añadir a la pantalla de inicio"** o **"Instalar aplicación"**.
 4. 🎉 **¡Listo!** Tendrás el icono de la cafetera en tu móvil y funcionará a pantalla completa como cualquier otra app.
