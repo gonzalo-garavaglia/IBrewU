@@ -1,35 +1,46 @@
-IBrewU ☕
-Una calculadora y mini-guía interactiva diseñada para simplificar el proceso de hacer un café increíble en casa.
+<div align="center">
+  
+  # ☕ IBrewU 
+  
+  **Tu asistente personal para el café de especialidad**
 
-👋 Sobre el proyecto
-¡Hola! Soy un chaval de Málaga y mi gran hobby es el café de especialidad.
+  ![Estado](https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge)
+  ![Plataforma](https://img.shields.io/badge/Plataforma-Web%20%7C%20PWA-blue?style=for-the-badge)
+  ![Licencia](https://img.shields.io/badge/Coste-Gratis-orange?style=for-the-badge)
 
-He creado IBrewU no solo para facilitarme la vida a mí por las mañanas, sino pensando en toda esa gente que está empezando a hacer café y necesita una pequeña guía clara. Cuando empiezas en este mundillo, calcular los vertidos, los ratios y los tiempos de la V60 o la Aeropress puede ser abrumador. Esta web-app lo hace todo por ti al instante, sin matemáticas complicadas.
+</div>
 
-✨ Características
-IBrewU es súper sencilla, funciona sin internet (offline) y puedes instalarla en tu móvil como una app nativa. Incluye las siguientes guías y calculadoras:
+---
 
-Para V60:
+> 👋 **¡Hola!** Soy un chaval de Málaga y mi gran afición es el café de especialidad.  
+> He creado **IBrewU** no solo para facilitarme la vida por las mañanas, sino pensando en toda esa gente que está empezando a hacer café y necesita una guía clara. Cuando empiezas, calcular los vertidos, ratios y tiempos puede ser abrumador. Esta web-app lo hace todo por ti al instante, sin matemáticas complicadas. 🌴☀️
 
-Calculadora Estándar: Eliges tus gramos, tu ratio (1:15, 1:16, etc.), los vertidos que quieres hacer y si prefieres un bloom de x2 o x3. La app te calcula exactamente cuánta agua echar en cada paso y qué número debes ver en tu báscula.
+---
 
-Método 4:6 (Tetsu Kasuya): La clásica receta del campeón mundial, automatizada en 5 vertidos exactos para balancear dulzor, acidez y fuerza.
+## ✨ Características Principales
 
-Para Aeropress:
+IBrewU es súper intuitiva, **funciona sin internet (offline)** y puedes instalarla en tu móvil como una app nativa. 
 
-The Ultimate Aeropress (James Hoffmann): La guía paso a paso de la famosa receta estándar de 12g de café y 200g de agua.
+### 🌪️ Métodos para V60
+*   **🧮 Calculadora Estándar:** Elige tus gramos, tu ratio (1:15, 1:16, etc.), los vertidos que quieres hacer y si prefieres un *bloom* de x2 o x3. La app te calcula exactamente cuánta agua echar en cada paso y qué número debes ver en tu báscula.
+*   **⚖️ Método 4:6 (Tetsu Kasuya):** La clásica receta del campeón mundial, automatizada en 5 vertidos exactos para balancear dulzor, acidez y fuerza.
 
-The AeroFlash (Coffee Drips.yu): Una receta rápida, indulgente y consistente para prepararte el mejor Aeropress sobre hielo (Iced Coffee).
+### 🚀 Métodos para Aeropress
+*   **🏆 The Ultimate Aeropress (James Hoffmann):** La guía paso a paso de la famosa receta estándar de 12g de café y 200g de agua.
+*   **🧊 The AeroFlash (Coffee Drips.yu):** Una receta rápida, indulgente y consistente para prepararte el mejor Aeropress sobre hielo (*Iced Coffee*).
 
-📱 Cómo instalar en tu móvil (Totalmente gratis)
-IBrewU es una PWA (Progressive Web App). No necesitas descargarla de ninguna tienda de aplicaciones.
+---
 
-Entra a la web del proyecto desde el navegador de tu móvil (Chrome, Safari, etc.).
+## 📱 Cómo instalar en tu móvil (Totalmente gratis)
 
-Abre el menú del navegador (los tres puntitos).
+IBrewU es una **PWA** (Progressive Web App). No necesitas descargarla de ninguna tienda de aplicaciones, no ocupa espacio y es gratis.
 
-Selecciona "Añadir a la pantalla de inicio" o "Instalar aplicación".
+1. 🌐 **Entra a la web** del proyecto desde el navegador de tu móvil (Chrome, Safari, etc.).
+2. ⚙️ **Abre el menú** del navegador (los tres puntitos arriba a la derecha).
+3. ⬇️ Selecciona **"Añadir a la pantalla de inicio"** o **"Instalar aplicación"**.
+4. 🎉 **¡Listo!** Tendrás el icono de la cafetera en tu móvil y funcionará a pantalla completa como cualquier otra app.
 
-¡Listo! Tendrás el icono de la cafetera en tu móvil y funcionará a pantalla completa como cualquier otra app.
-
-Hecho con mucho café desde Málaga. 🌴☕
+---
+<div align="center">
+  <i>Desarrollado con mucho café ☕ y cariño desde Málaga.</i>
+</div>
